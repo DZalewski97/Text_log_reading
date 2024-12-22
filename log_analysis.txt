@@ -1,0 +1,3 @@
+User: Alice, show times: 13 
+User: Bob, show times: 7 
+User: Charlie, show times: 6 

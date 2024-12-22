@@ -1,0 +1,5 @@
+[2024-12-05 15:02:15] [INFO] User: Alice, Action: Login, IP: 192.168.0.1
+[2024-12-06 15:05:30] [ERROR] User: Dave, Action: Upload, IP: 192.168.0.4
+[2024-12-07 15:10:45] [INFO] User: Bob, Action: Logout, IP: 192.168.0.2
+[2024-12-08 15:15:00] [INFO] User: Charlie, Action: Download, IP: 192.168.0.3
+[2024-12-09 15:20:10] [INFO] User: Alice, Action: Login, IP: 192.168.0.1
